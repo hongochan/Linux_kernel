@@ -1,0 +1,1 @@
+buil gcc binh thuong nhung them -lrt khi build
