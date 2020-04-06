@@ -1,1 +1,2 @@
+y tuong: tao 1 file shm_fd khi file share_memory ghi vao file shm_fd thi file reader se doc tu file shm_fd
 buil gcc binh thuong nhung them -lrt khi build
